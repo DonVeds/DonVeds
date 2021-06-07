@@ -1,6 +1,8 @@
-### Hello world 👋
+### Привет 👋
 
-I'm Dmitry. I'm freelance IT Recruiter in Saint Petersburg, Russia. Wanna do some magic 
+Меня зовут Дима, я рекручу и иногда пишу плохой код. 
 
-- 🔭 Currently working on PlantsApp on DVsoftwareEngine page;
-- 📫 Always reading my email: donveds@gmail.com
+- 🔨 Ведутся ночные работы по созданию AddToCalendar;
+- 🔭 Медленно лежу в сторону работ над PlantsApp на страничке DVsoftwareEngine;
+- 📫 Тут можно постучать на почту: donveds@gmail.com
+- 📟 А тут в тележку: @donveds
